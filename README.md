@@ -185,7 +185,7 @@ Click on one of the options below for instructions on deploying the app.
  - Improve accessibility by providing built-in with Translator option
  - Include a new section called "Education" which will enable women to search and pursue education after a break
  
-    ![Logo](doc/source/images/saheli roadmap.png)
+   ![Saheli_logo](doc/source/images/saheli_roadmap.png)
 
 ### Authors
 - **Bharathi Athinarayanan** - _Humanitarian / AI/ML Architecht / Team lead_
