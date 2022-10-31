@@ -184,6 +184,7 @@ Click on one of the options below for instructions on deploying the app.
  - Include feature for booking a interview right from the bot
  - Improve accessibility by providing built-in with Translator option
  - Include a new section called "Education" which will enable women to search and pursue education after a break
+ ![Logo](./images/speaker.jpg)
 
 ### Authors
 - **Bharathi Athinarayanan** - _Humanitarian / AI/ML Architecht / Team lead_
